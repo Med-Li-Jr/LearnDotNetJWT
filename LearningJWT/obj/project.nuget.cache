@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FXkLGjlZ15yzOHR+rl3X3whMIjh7irM8NoxVSG8S5RupRlcQavZreIKpscXSZ69auUUUWz1EGZslNdZ3R0X14Q==",
+  "dgSpecHash": "oKCLWRL7D2LUurj3Q6Uqy5dZlsvtRIK74FnRBxiEEUlHQ8tM71wSudT4bPxCmLxTh6ZuLSPil6Rvuoc8qGR6CQ==",
   "success": true,
   "projectFilePath": "D:\\DocStream\\LearningJWT\\LearningJWT\\LearningJWT.csproj",
   "expectedPackageFiles": [
@@ -8,8 +8,14 @@
     "C:\\Users\\myself\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.11.1\\microsoft.identitymodel.jsonwebtokens.6.11.1.nupkg.sha512",
     "C:\\Users\\myself\\.nuget\\packages\\microsoft.identitymodel.logging\\6.11.1\\microsoft.identitymodel.logging.6.11.1.nupkg.sha512",
     "C:\\Users\\myself\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.11.1\\microsoft.identitymodel.tokens.6.11.1.nupkg.sha512",
+    "C:\\Users\\myself\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\myself\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\myself\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
     "C:\\Users\\myself\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.11.1\\system.identitymodel.tokens.jwt.6.11.1.nupkg.sha512",
-    "C:\\Users\\myself\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "C:\\Users\\myself\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\myself\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\myself\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\myself\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

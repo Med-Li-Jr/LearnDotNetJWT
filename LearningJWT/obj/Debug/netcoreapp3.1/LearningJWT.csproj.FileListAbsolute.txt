@@ -16,3 +16,13 @@ D:\DocStream\LearningJWT\LearningJWT\obj\Debug\netcoreapp3.1\LearningJWT.csproj.
 D:\DocStream\LearningJWT\LearningJWT\obj\Debug\netcoreapp3.1\LearningJWT.dll
 D:\DocStream\LearningJWT\LearningJWT\obj\Debug\netcoreapp3.1\LearningJWT.pdb
 D:\DocStream\LearningJWT\LearningJWT\obj\Debug\netcoreapp3.1\LearningJWT.genruntimeconfig.cache
+D:\DocStream\LearningJWT\LearningJWT\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\DocStream\LearningJWT\LearningJWT\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\DocStream\LearningJWT\LearningJWT\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\DocStream\LearningJWT\LearningJWT\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\DocStream\LearningJWT\LearningJWT\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\DocStream\LearningJWT\LearningJWT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\DocStream\LearningJWT\LearningJWT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\DocStream\LearningJWT\LearningJWT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\DocStream\LearningJWT\LearningJWT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\DocStream\LearningJWT\LearningJWT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
